@@ -1,2 +1,10 @@
+#Docker configuration
+Dockerfile
+
+#Node configuration
 node_modules
 npm-debug.log
+
+#Git
+.gitignore
+.git
